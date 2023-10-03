@@ -1,6 +1,6 @@
+![I am Frontend Developer](https://media.licdn.com/dms/image/D4E16AQFnAvb02GV1nA/profile-displaybackgroundimage-shrink_350_1400/0/1695574924418?e=1701907200&v=beta&t=u_rLqaKls7ry8CJR2pFOA3wXcxLK0VwWI8Us8q1reD4)
 ### Hi there 👋, my name is Md Shahed
 #### I am Frontend Developer
-![I am Frontend Developer](https://media.licdn.com/dms/image/D4E16AQFnAvb02GV1nA/profile-displaybackgroundimage-shrink_350_1400/0/1695574924418?e=1701907200&v=beta&t=u_rLqaKls7ry8CJR2pFOA3wXcxLK0VwWI8Us8q1reD4)
 
 My name is Shahed, and I'm a passionate frontend developer. Currently, I'm pursuing my studies in Computer Science and Engineering (CSE) at IIUC. I thrive on creating visually appealing and user-friendly web interfaces. With a keen eye for design and a strong coding background, I'm dedicated to enhancing user experiences through innovative web solutions. I'm always eager to learn and stay updated with the latest trends in web development to excel in both my academic and professional endeavors.
 
