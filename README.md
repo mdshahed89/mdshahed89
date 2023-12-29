@@ -1,4 +1,4 @@
-![I am Frontend Developer](https://media.licdn.com/dms/image/D4E16AQFnAvb02GV1nA/profile-displaybackgroundimage-shrink_350_1400/0/1695574924418?e=1701907200&v=beta&t=u_rLqaKls7ry8CJR2pFOA3wXcxLK0VwWI8Us8q1reD4)
+![I am Frontend Developer]
 ### Hi there 👋, my name is Md Shahed
 #### I am Frontend Developer
 
