@@ -1,4 +1,3 @@
-![I am Frontend Developer]
 ### Hi there 👋, my name is Md Shahed
 #### I am Frontend Developer
 
